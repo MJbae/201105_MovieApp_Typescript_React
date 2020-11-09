@@ -1,8 +1,5 @@
 {
-  "name": "201105_MovieApp_Typescript_React",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/MJbae/201105_MovieApp_Typescript_React.git",
-  "author": "MJbae <bmj5208@gmail.com>",
-  "license": "MIT"
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
 }
